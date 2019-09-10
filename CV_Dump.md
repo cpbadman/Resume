@@ -12,34 +12,33 @@
 
 #### The Manufacturing Technology Centre, Coventry 
 
-##### Research Engineer [May 2019 - Present] 
+* Research Engineer [May 2019 - Present] 
 
 
-* Responsibilities:
+	* Responsibilities:
 
-	* Delivery of technical work packs for engineering research projects around Intelligent Automation.  
-	* Work packs involving online and offline robot programming, Integration, development of control, sequencing and interfacing software.  
-	* Customer facing role, dealing with some high-value industrial customers, taking front-facing ownership of tasks and being accountable for their completion. 
-	* Role was Industry-facing and research-oriented In equal parts, requiring the combination of thinking creatively while working under pressure to meet tight deadlines.  
+		* Delivery of technical work packs for engineering research projects around Intelligent Automation.  
+		* Work packs involving online and offline robot programming, Integration, development of control, sequencing and interfacing software.  
+		* Customer facing role, dealing with some high-value industrial customers, taking front-facing ownership of tasks and being accountable for their completion. 
+		* Role was Industry-facing and research-oriented In equal parts, requiring the combination of thinking creatively while working under pressure to meet tight deadlines.  
 
 
-* Achievements:  
+	* Achievements:  
 
-	* Early on, I was delegated more technical responsibility than is usual for a Graduate, including being the main technical specialist on-site during visits to customer and partner sites for collaborative projects.  
-	* I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
-	* Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
+		* Early on, I was delegated more technical responsibility than is usual for a Graduate, including being the main technical specialist on-site during visits to customer and partner sites for collaborative projects.  
+		* I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
+		* Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
 
 ##### Graduate Engineer [Aug 2018 - May 2019]  
 
 #### Entomics Bio-Systems Ltd.  
-##### Placement design engineer [Jul-Aug. 2017]
+* Placement design engineer [Jul-Aug. 2017]
 
 #### Petroceltic Intl.  
-##### Work Experience Student - Prospecting technology [Summer 2013]
+* Work Experience Student - Prospecting technology [Summer 2013]
 
 #### Fundassist Ltd. 
-##### IT Systems Internship  [Summer 2011, 2012]
-
+* IT Systems Internship  [Summer 2011, 2012]
 
 #### Various Part-time restaurant jobs [2011 - 2014] [The Jurassic Seafood, Antonio’s, Italia]
 
