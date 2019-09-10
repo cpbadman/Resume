@@ -2,17 +2,17 @@
 
 ## Ciaran Badman - Engineer [Mechanical / Robotics / Software / Systems]
 
-###Education:
+### Education:
 
  * M.Eng Mechanical Engineering, 1st Class Hons. Loughborough University [Grad. July 2018]
  * A-Levels A\*AB [Maths, Further Maths, Physics - 2014]
  * GCSEs [11 A\*-C - 2012]
 
-###Employment history
+### Employment history
 
-####The Manufacturing Technology Centre, Coventry 
+#### The Manufacturing Technology Centre, Coventry 
 
-#####Research Engineer [May 2019 - Present] 
+##### Research Engineer [May 2019 - Present] 
 
 
 * Responsibilities:
@@ -29,29 +29,29 @@
  * I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
  * Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
 
-#####Graduate Engineer [Aug 2018 - May 2019]  
+##### Graduate Engineer [Aug 2018 - May 2019]  
 
-####Entomics Bio-Systems Ltd.  
-#####Placement design engineer [Jul-Aug. 2017]
+#### Entomics Bio-Systems Ltd.  
+##### Placement design engineer [Jul-Aug. 2017]
 
-####Petroceltic Intl.  
-#####Work Experience Student - Prospecting technology [Summer 2013]
+#### Petroceltic Intl.  
+##### Work Experience Student - Prospecting technology [Summer 2013]
 
-####Fundassist Ltd. 
-#####IT Systems Internship  [Summer 2011, 2012]
-
-
-####Various Part-time restaurant jobs [2011 - 2014] [The Jurassic Seafood, Antonio’s, Italia]
+#### Fundassist Ltd. 
+##### IT Systems Internship  [Summer 2011, 2012]
 
 
-###University Undergraduate Projects: 
+#### Various Part-time restaurant jobs [2011 - 2014] [The Jurassic Seafood, Antonio’s, Italia]
+
+
+### University Undergraduate Projects: 
 * Automated Inspection of Pipe Assemblies [2017-18] (MTC)  4th Year ‘Total Product Design’ group project to design a non-contact measurement process for use in an automated ‘Factory in a box’ prototype.  Key Words: Metrology, Automation, Machine Vision, Design of Experiments, Electronics, Robotics, Teamwork, MATLAB, Image Processing, Costing, Project risk mitigation 
 * Device to Help the Elderly/Disabled Stand Up [2016-17] Individual project (Dissertation) to design a ‘smart’ at-home assistive device which aids in standing up, and responds actively to user input. Key Words: Mechanical Design, Systems Design, Control Strategy, Programming, Electronics, Arduino, MATLAB, Siemens NX, 3D Printing, Individual accountability, Report Writing, Presentation 
 * Hand Garden Tool Project [2015-16] (BOSCH)  Group project to design a new powered hand tool for use in a domestic garden. Key Words: Product Design, User Need, Ergonomics, Prototyping, Teamwork, 3D Printing, Marketing 
 
-###Qualities and Skill Set
+### Qualities and Skill Set
 
-####General:
+#### General:
 * Developed technical writing skills
 * Practical and methodical problem solving
 * Fine attention to detail
@@ -65,7 +65,7 @@
 * Obsessive dedication to the task
 * A genuine passion for the process of designing and building [systems, processes, mechanisms, products, software]
 
-####Software:
+#### Software:
 * Familiar with, and knowledgable about the applications of the main paradigms of modern programming - Procedural, Imperative Functional and Object Oriented
 * Proficient in Python for a variety of applications
 * Comfortable working with Strongly-typed languages such C# and Java
@@ -74,13 +74,13 @@
 * Confident working in IDEs as well as text-editor based workflows such as vim
 * Comfortable using both Windows-based and UNIX-like (Mac, with some contact with Linux too) architecture as a development platform.
 
-####Mechanical/Manufacturing:
+#### Mechanical/Manufacturing:
 * Experience with several manual and CNC-based, additive and subtractive prototyping processes
 * Proficient in several 3D CAD softwares (incl. NX/ SolidWorks)
 * Ability to produce and understand clear mechanical component and assembly drawings, with an understanding of BS-8888 as a guideline
 * Proficient with several simulation packages, including structural FEA (ABAQUS, NX)
 
-####Systems:
+#### Systems:
 * Sound grasp of the principles and implementation of analogue and digital control strategy
 * Extensive experience with computer programming for systems integration applications
 * An understanding of electrical schematics
@@ -89,13 +89,13 @@
 * Machine vision - I wrote my own 3D stereo machine vision software in MATLAB
 * Contact with and essential understanding of PLCs and Fieldbus systems
 
-####Robotics
+#### Robotics
 * Competent in working safely with ABB and Universal Robots Robots, some cursory contact with KUKA and FANUC robots
 * In-depth experience with offline and online robot programming
 * Ground-up knowledge of robotic functionality, from forward/backwards kinematics, Transform matrices, DH parameters
 
 
-###Hobbies and Interests
+### Hobbies and Interests
 * Art and Graphic Design - Celtic knot-work and abstract geometry (Instagram - @licking_oursouls)
 * Amateur Photography (point-and-shoot film photography, creative macro photography using a water drop as a lens)
 * Cycling
