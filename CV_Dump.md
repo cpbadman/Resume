@@ -45,11 +45,11 @@
 
 
 ### University Undergraduate Projects: 
-* Automated Inspection of Pipe Assemblies [2017-18] (MTC)  
+* Automated Inspection of Pipe Assemblies [2017-18] (MTC)   
 	4th Year ‘Total Product Design’ group project to design a non-contact measurement process for use in an automated ‘Factory in a box’ prototype.  Key Words: Metrology, Automation, Machine Vision, Design of Experiments, Electronics, Robotics, Teamwork, MATLAB, Image Processing, Costing, Project risk mitigation 
-* Device to Help the Elderly/Disabled Stand Up [2016-17] 
+* Device to Help the Elderly/Disabled Stand Up [2016-17]   
 	Individual project (Dissertation) to design a ‘smart’ at-home assistive device which aids in standing up, and responds actively to user input. Key Words: Mechanical Design, Systems Design, Control Strategy, Programming, Electronics, Arduino, MATLAB, Siemens NX, 3D Printing, Individual accountability, Report Writing, Presentation 
-* Hand Garden Tool Project [2015-16] (BOSCH)  
+* Hand Garden Tool Project [2015-16] (BOSCH)   
 	Group project to design a new powered hand tool for use in a domestic garden. Key Words: Product Design, User Need, Ergonomics, Prototyping, Teamwork, 3D Printing, Marketing 
 
 ### Qualities and Skill Set
