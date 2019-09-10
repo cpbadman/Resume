@@ -25,9 +25,9 @@
 
 * Achievements:  
 
- * Early on, I was delegated more technical responsibility than is usual for a Graduate, including being the main technical specialist on-site during visits to customer and partner sites for collaborative projects.  
- * I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
- * Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
+	* Early on, I was delegated more technical responsibility than is usual for a Graduate, including being the main technical specialist on-site during visits to customer and partner sites for collaborative projects.  
+	* I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
+	* Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
 
 ##### Graduate Engineer [Aug 2018 - May 2019]  
 
