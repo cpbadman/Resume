@@ -17,10 +17,10 @@
 
 * Responsibilities:
 
- * Delivery of technical work packs for engineering research projects around Intelligent Automation.  
- * Work packs involving online and offline robot programming, Integration, development of control, sequencing and interfacing software.  
- * Customer facing role, dealing with some high-value industrial customers, taking front-facing ownership of tasks and being accountable for their completion. 
- * Role was Industry-facing and research-oriented In equal parts, requiring the combination of thinking creatively while working under pressure to meet tight deadlines.  
+	* Delivery of technical work packs for engineering research projects around Intelligent Automation.  
+	* Work packs involving online and offline robot programming, Integration, development of control, sequencing and interfacing software.  
+	* Customer facing role, dealing with some high-value industrial customers, taking front-facing ownership of tasks and being accountable for their completion. 
+	* Role was Industry-facing and research-oriented In equal parts, requiring the combination of thinking creatively while working under pressure to meet tight deadlines.  
 
 
 * Achievements:  
