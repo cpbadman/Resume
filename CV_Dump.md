@@ -1,6 +1,6 @@
-#CV Dump
+# CV Dump
 
-##Ciaran Badman - Engineer [Mechanical / Robotics / Software / Systems]
+## Ciaran Badman - Engineer [Mechanical / Robotics / Software / Systems]
 
 ###Education:
 
