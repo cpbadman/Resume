@@ -10,7 +10,7 @@
 
 ### Employment history
 
-#### The Manufacturing Technology Centre, Coventry 
+#### The Manufacturing Technology Centre - Coventry 
 
 * Research Engineer [May 2019 - Present] 
 
@@ -31,16 +31,17 @@
 
 ##### Graduate Engineer [Aug 2018 - May 2019]  
 
-#### Entomics Bio-Systems Ltd.  
+#### Entomics Bio-Systems Ltd. - Cambridge
 * Placement design engineer [Jul-Aug. 2017]
 
-#### Petroceltic Intl.  
+#### Petroceltic Intl. -  Dublin
 * Work Experience Student - Prospecting technology [Summer 2013]
 
-#### Fundassist Ltd. 
+#### Fundassist Ltd. - Rome
 * IT Systems Internship  [Summer 2011, 2012]
 
-#### Various Part-time restaurant jobs [2011 - 2014] [The Jurassic Seafood, Antonio’s, Italia]
+#### Various Part-time restaurant jobs - Lyme Regis, Dorset
+* The Jurassic Seafood, Antonio’s, Italia [2011 - 2014] 
 
 
 ### University Undergraduate Projects: 
