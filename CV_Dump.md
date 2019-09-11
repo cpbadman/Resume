@@ -4,32 +4,35 @@
 
 ### Education:
 
- * M.Eng Mechanical Engineering, 1st Class Hons. Loughborough University [Grad. July 2018]
- * A-Levels A\*AB [Maths, Further Maths, Physics - 2014]
- * GCSEs [11 A\*-C - 2012]
+* M.Eng Mechanical Engineering, 1st Class Hons. Loughborough University [Grad. July 2018]
+* A-Levels [The Woodroffe School, Lyme Regis, Dorset, July 2014]
+    * Maths 
+    * Further Maths
+    * Physics
+
+
+* GCSEs [The Woodroffe School, Lyme Regis, Dorset, July 2012] 
+    * 11 [A\*-C]
 
 ### Employment history
 
 #### The Manufacturing Technology Centre - Coventry 
 
-* Research Engineer [May 2019 - Present] 
+* Research Engineer [May 2019 - Present]   
 
+    * Responsibilities:
 
-	* Responsibilities:
+        * Delivery of technical work packs for engineering research projects around Intelligent Automation.  
+        * Work packs involving online and offline robot programming, Integration, development of control, sequencing and interfacing software.  
+        * Customer facing role, dealing with some high-value industrial customers, taking front-facing ownership of tasks and being accountable for their completion. 
+        * Role was Industry-facing and research-oriented In equal parts, requiring the combination of thinking creatively while working under pressure to meet tight deadlines.  
 
-		* Delivery of technical work packs for engineering research projects around Intelligent Automation.  
-		* Work packs involving online and offline robot programming, Integration, development of control, sequencing and interfacing software.  
-		* Customer facing role, dealing with some high-value industrial customers, taking front-facing ownership of tasks and being accountable for their completion. 
-		* Role was Industry-facing and research-oriented In equal parts, requiring the combination of thinking creatively while working under pressure to meet tight deadlines.  
+    * Achievements:  
+        * Early on, I was delegated more technical responsibility than is usual for a Graduate, including being the main technical specialist on-site during visits to customer and partner sites for collaborative projects.  
+        * I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
+        * Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
 
-
-	* Achievements:  
-
-		* Early on, I was delegated more technical responsibility than is usual for a Graduate, including being the main technical specialist on-site during visits to customer and partner sites for collaborative projects.  
-		* I Received a promotion from ‘Graduate Engineer’ to ‘Research Engineer’ within 8 months of starting at the company.  
-		* Having previously very minimal contact with computer programming, I developed to become proficient in several programming languages. I have since successfully delivered several work packs where my primary contribution was software or scripting. 
-
-##### Graduate Engineer [Aug 2018 - May 2019]  
+* Graduate Engineer [Aug 2018 - May 2019]  
 
 #### Entomics Bio-Systems Ltd. - Cambridge
 * Placement design engineer [Jul-Aug. 2017]
@@ -38,18 +41,18 @@
 * Work Experience Student - Prospecting technology [Summer 2013]
 
 #### Fundassist Ltd. - Rome
-* IT Systems Internship  [Summer 2011, 2012]
+* IT Systems Internship  [Summer 2011, 2012 s]
 
 #### Various Part-time restaurant jobs - Lyme Regis, Dorset
 * The Jurassic Seafood, Antonio’s, Italia [2011 - 2014] 
 
 
 ### University Undergraduate Projects: 
-* Automated Inspection of Pipe Assemblies [2017-18] (MTC)   
+* Automated Inspection of Pipe Assemblies [2017-18]  
 	4th Year ‘Total Product Design’ group project to design a non-contact measurement process for use in an automated ‘Factory in a box’ prototype.  Key Words: Metrology, Automation, Machine Vision, Design of Experiments, Electronics, Robotics, Teamwork, MATLAB, Image Processing, Costing, Project risk mitigation 
 * Device to Help the Elderly/Disabled Stand Up [2016-17]   
 	Individual project (Dissertation) to design a ‘smart’ at-home assistive device which aids in standing up, and responds actively to user input. Key Words: Mechanical Design, Systems Design, Control Strategy, Programming, Electronics, Arduino, MATLAB, Siemens NX, 3D Printing, Individual accountability, Report Writing, Presentation 
-* Hand Garden Tool Project [2015-16] (BOSCH)   
+* Hand Garden Tool Project [2015-16] \(BOSCH\)   
 	Group project to design a new powered hand tool for use in a domestic garden. Key Words: Product Design, User Need, Ergonomics, Prototyping, Teamwork, 3D Printing, Marketing 
 
 ### Qualities and Skill Set
